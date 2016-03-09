@@ -6,3 +6,4 @@ As the description suggests, this repository is created as a test repository. Th
 The presentation seems to be very detailed! Wish I could comprehend French! aaaaaaaaaa tabarnak!
 Handy resources:
 https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf
+http://pcottle.github.io/learnGitBranching/
